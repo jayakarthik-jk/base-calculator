@@ -6,6 +6,7 @@
   padding-left: 1rem;
   padding-right: 1rem;
   border-bottom: 2px solid #f00;
+  background-color: #fff;
 }
 
 .brand {
@@ -24,6 +25,7 @@
   min-height: 25vh;
   display: flex;
   flex-direction: column-reverse;
+  background-color: #fff;
 }
 
 .input,
@@ -35,6 +37,7 @@
   padding: 0 1rem 0 0;
   font-size: large;
   font-weight: bold;
+  background-color: #fff;
 }
 
 .input:focus,
@@ -88,6 +91,7 @@ html {
   flex-direction: column;
   margin: auto;
   max-width: 1500px;
+  background-color: #fff;
 }
 
 /*# sourceMappingURL=index.css.map */

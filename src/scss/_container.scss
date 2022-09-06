@@ -2,6 +2,7 @@
   min-height: 25vh;
   display: flex;
   flex-direction: column-reverse;
+  background-color: #fff;
 }
 .input,
 .output {
@@ -12,6 +13,7 @@
   padding: 0 1rem 0 0;
   font-size: large;
   font-weight: bold;
+  background-color: #fff;
 }
 .input:focus,
 .output:focus {
