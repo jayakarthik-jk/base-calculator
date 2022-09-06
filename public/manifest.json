@@ -1,6 +1,6 @@
 {
-  "short_name": "Practice React App",
-  "name": "Practice React App",
+  "short_name": "Base Calculator",
+  "name": "Base Calculator",
   "start_url": ".",
   "display": "standalone",
   "theme_color": "#000000",
